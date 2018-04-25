@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../chapter9/server-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../chapter9/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../chapter9/service-miya" charset="UTF-8" />
+  </component>
+</project>
